@@ -1,3 +1,9 @@
+header {
+  margin: auto;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
 body {
 margin: auto;
 background-image: url(bground.jpg);
