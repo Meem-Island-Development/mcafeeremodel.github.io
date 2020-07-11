@@ -10,13 +10,13 @@ background-image: url(bground.jpg);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
-color: 000000;
+color: #000000;
 font-family: 'Open Sans', sans-serif;
 text-decoration: none;
 }
 li{
   text-decoration: none;
-  color: black;
+  color: #FFFFFF;
   margin: auto;
 }
 nav ul {
@@ -34,7 +34,7 @@ nav li {
 
 nav li a {
   display: block;
-  color: white;
+  color: #FFFFFF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
