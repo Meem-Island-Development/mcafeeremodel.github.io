@@ -4,14 +4,16 @@ header {
   color: white;
   text-align: center;
 }
+html{
+  background-image: url(bground.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
 body {
 margin: auto;
 padding: 10px;
 background-color: rgba(255,255,255,0.4);
-background-image: url(bground.jpg);
-background-repeat: no-repeat;
-background-position: center;
-background-size: cover;
 color: #000000;
 font-family: 'Open Sans', sans-serif;
 text-decoration: none;
