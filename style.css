@@ -6,6 +6,8 @@ header {
 }
 body {
 margin: auto;
+padding: 10px;
+background-color: rgba(255,255,255,0.2);
 background-image: url(bground.jpg);
 background-repeat: no-repeat;
 background-position: center;
@@ -45,4 +47,8 @@ nav li a:hover {
 }
 .active {
   background-color: #FF0000;
+}
+footer{
+  background-color: rgba(0,0,0,0.5);
+  color: white;
 }
